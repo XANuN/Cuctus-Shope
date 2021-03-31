@@ -166,6 +166,7 @@ figure .article-image {
 
 .child .img:hover {
     transform: scale(1.06);
+    box-shadow: 2px 5px 2px rgba(0, 0, 0, 0.192);
 }
 
 .child .img::after {
